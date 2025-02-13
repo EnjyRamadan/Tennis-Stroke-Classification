@@ -1,5 +1,5 @@
 
-# **Tennis Stroke Classification - Deep Learning Project**
+# **Tennis Strokes Classification - Deep Learning Project**
 
 ## **Overview**
 
