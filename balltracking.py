@@ -5,7 +5,7 @@ import mediapipe as mp
 import torch
 # Initialize MediaPipe Pose model
 mp_pose = mp.solutions.pose
-mp_drawing = mp.solutions.drawing_utils
+mp_drawing = mp.solutions.drawing_utils 
 pose = mp_pose.Pose()
 
 # Define the drawing specifications for landmarks and connections
@@ -19,7 +19,7 @@ model = torch.hub.load('ultralytics/yolov5', 'yolov5s', pretrained=True)
 cnn_model = tf.keras.models.load_model('my_model.h5')
 
 # Open video capture
-cap = cv2.VideoCapture('videos/Roger Federer Serves from Back Perpsective in HD.mp4')
+cap = cv2.VideoCapture('videos/dojoko.mp4')
 
 # Class IDs for YOLO (0 for person, 32 for sports ball)
 person_class_id = 0
