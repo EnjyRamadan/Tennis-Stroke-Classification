@@ -49,6 +49,9 @@ python main.py
 2. **Run the Model**: The system will classify strokes from extracted frames.
 3. **View Results**: Display classification results with confidence scores.
 
+## Demo Video
+
+[Graphica Demo - Watch here](https://drive.google.com/file/d/1ucBH6bKEkXVYGXF7tx8XTAtf4wSE10R1/view?usp=sharing)
 
 
 
