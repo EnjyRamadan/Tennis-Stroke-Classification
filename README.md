@@ -33,8 +33,8 @@ pip install tensorflow numpy opencv-python pillow matplotlib
 ### **Clone Repository:**
 
 ```bash
-git clone https://github.com/yourusername/tennis-stroke-classification.git
-cd tennis-stroke-classification
+git clone[ https://github.com/yourusername/tennis-stroke-classification.git](https://github.com/EnjyRamadan/Tennis-Stroke-Classification.git)
+
 ```
 
 ## **How to Run**
