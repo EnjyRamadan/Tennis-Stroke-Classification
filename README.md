@@ -1,6 +1,3 @@
-Here’s a **README** for your **Tennis Stroke Classification** project, considering you used **CNN** for classification.
-
----
 
 # **Tennis Stroke Classification - Deep Learning Project**
 
