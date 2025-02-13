@@ -51,6 +51,8 @@ python main.py
 
 ## Demo Video
 
+![App Interface](Screenshot.png)
+
 [Graphica Demo - Watch here](https://drive.google.com/file/d/1ucBH6bKEkXVYGXF7tx8XTAtf4wSE10R1/view?usp=sharing)
 
 
