@@ -40,7 +40,7 @@ git clone https://github.com/EnjyRamadan/Tennis-Stroke-Classification.git
 ## **How to Run**
 
 ```bash
-python main.py
+python ball tracking .py
 ```
 
 ## **How to Use**
