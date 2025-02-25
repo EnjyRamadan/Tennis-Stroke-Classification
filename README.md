@@ -3,7 +3,7 @@
 
 ## **Overview**
 
-The **Tennis Stroke Classification** project utilizes **Convolutional Neural Networks (CNNs)** to automatically recognize and classify different types of tennis strokes from images or videos. The system can differentiate between strokes such as **forehand, backhand, and serve**, providing valuable insights into player technique and performance.
+The **Tennis Stroke Classification** project utilizes **Convolutional Neural Networks (CNNs)** to automatically recognize and classify different types of tennis strokes from images or videos. The system can differentiate between strokes such as **forehand, backhand, neutral, and serve**, providing valuable insights into player technique and performance.
 
 ## **Features**
 
